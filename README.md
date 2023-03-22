@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wordeater, known IRL as Jasey DePriest.
+- 👋 Hi, I’m @wordeater, known IRL as J. R. DePriest.
 - 👀 I’m interested in Automating Information Security Tasks
 - 🌱 I’m currently learning whatever I can
 - 💞️ I’m looking to collaborate on nothing at the moment
